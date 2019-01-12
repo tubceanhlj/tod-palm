@@ -14,7 +14,7 @@
 <br>数据样例1（样例原图可以在imgs文件夹下找到）：<br>
 <table>
   <tr>
-     <td> <img src="https://github.com/tubceanhlj/tod-palm/blob/master/imgs/1.jpg" width="100" height="200" /> </td>
+     <td> <img src="https://github.com/tubceanhlj/tod-palm/blob/master/imgs/1.jpg" width="1000" height="1333" /> </td>
      <td> <img src="https://github.com/tubceanhlj/tod-palm/blob/master/imgs/2.jpg" width="100" height="200" /> </td>
      <td> <img src="https://github.com/tubceanhlj/tod-palm/blob/master/imgs/3.jpg" width="100" height="200"  /> </td>
      <td> <img src="https://github.com/tubceanhlj/tod-palm/blob/master/imgs/4.jpg" width="100" height="200" /> </td>   
